@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Poler Backpack ",
+      "image": "https://www.tactics.com/a/7jog/o/poler-rucksack-backpack-black.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Roxy Backpack",
+      "image": "https://www.onsalehandbag.com/images/product/small/MS2029S-Navy.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Explorer Backpack",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRThPEXQ_hHACIHieAzxLjJ0MomFzHc06hOIwhoJA8SjhqGwLmxoA",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Red Backpack",
+      "image": "https://cdn.shopify.com/s/files/1/2114/9651/products/0000465587467176_M_medium.jpg?v=1535611425",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Green Backpack",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/stores/sport-goods/B0045TD10S-1.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Fancy Backpack",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4tPHEMdHkPBfOlKr_pbcaKibTX5T1WdrV25OpDicvqVecEaGoeA",
+      "clicked": false
+    }
+  ]
