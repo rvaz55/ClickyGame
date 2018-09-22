@@ -9,6 +9,7 @@ const Card = props => (
         onClick={() => props.handleClick(props.id)}
         style = {{backgroundImage : `url("${props.image}")`}}
         className = {`card-item`}
+        data-clicked = {props.clicked}
       />
 
 );
